@@ -58,7 +58,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startgroup")
                     ]
                 ]
             )
@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/SDAutoApproveBot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/KOM_JOINACCEPT_BOT?start=start")
                     ]
                 ]
             )
@@ -100,7 +100,8 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
+                        InlineKeyboardButton("➕ Add meto your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startgroup")
+ 
                     ]
                 ]
             )
