@@ -58,7 +58,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startchannel")
                     ]
                 ]
             )
@@ -100,7 +100,7 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
-                        InlineKeyboardButton("➕ Add meto your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startgroup")
+                        InlineKeyboardButton("➕ Add meto your Chat ➕", url="https://t.me/KOM_JOINACCEPT_BOT?startchannel")
  
                     ]
                 ]
