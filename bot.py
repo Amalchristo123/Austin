@@ -55,8 +55,8 @@ async def op(_, m :Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/SDBOTs_inifinity"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/SDBOTz")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
                     ]
@@ -97,8 +97,8 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/SDBOTs_inifinity"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/SDBOTz")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/KOMOFFICIAL"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/KOMBOTZZ")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
                     ]
